@@ -22,3 +22,6 @@ Git spurningar og svör
 4. 	Hvað er útgáfustýring (e.version control)? 
 Stjórnun á breytingum á forriti og/eða skjali þannig að hægt að sjá og nálgast eldri útgáfur.
 
+5.	Hverjir eru helstu kostir við að nota GIT?
+Kostirnir eru að það er hægt að vinna off-line með skrárnar á local repository sem hefur afrit af verkefninu. Git skipanir eru hraðvirkar af því að þær eru gerðar á local repository. Git geetur líka skráð ef skrár eru færðar.
+
