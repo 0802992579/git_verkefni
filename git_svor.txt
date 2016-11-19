@@ -33,3 +33,5 @@ Working directory er svæði í Github á netinu þar sem kóðinn er geymdur, nokkurs 
 
 8.	Hvenær er sniðugt að nota greinar (branches)? 
 það er sniðugt þegar maður þarf prófa eitthvað sem maður veit ekki hvort muni virka og vill hafa óbreytan aðalkóða þar til maður veit hvort tilraunin virkar.
+
+Ólafur Ásdisarson
