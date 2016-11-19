@@ -6,3 +6,10 @@ Git spurningar og svör
 	ls 	list all files in directory
 	pwd 	display path
 	mkdir 	create directories
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone 	copy existing git repository
+	git log 	shows commit logs
+	git status 	Displays paths that have differences between the index file and the current HEAD commit, paths that have differences between the working tree and the index file, and paths in the working tree that are not tracked by Git
+	git diff 	Show changes between commits, commit and working tree
+	git checkout 	Switch branches or restore working tree files
