@@ -28,3 +28,6 @@ Kostirnir eru að það er hægt að vinna off-line með skrárnar á local repository s
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 Eftir alla mikilvægar eða stórar breytingar þannig að til sé útgáfa fyrir og eftir þær. Það getur verið mikilvægt ef það þarf að bakka útgáfunni síðar.
 
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+Working directory er svæði í Github á netinu þar sem kóðinn er geymdur, nokkurs konar datastore, repository er lókalsvæði á tölvunni sem notandinn vinnur á, staging area er leyfir að aðeins breytingar á sumum skrám eru færðar frá repository yfir í working directory
+
